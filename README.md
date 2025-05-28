@@ -2,9 +2,9 @@
 This is a web-based food ordering system that allows users to browse a restaurant menu, add items to their cart, and place orders seamlessly. The project simulates the basic functionality of a real-world food ordering app like Zomato or Swiggy.
 
 🚀 Features
-User Registration & Login
-Browse Food Menu by Categories
-Add/Remove Items from Cart
+User Registration & Login 
+Browse Food Menu by Categories 
+Add/Remove Items from Cart                                                                                                      
 Place Orders & View Order History
 Admin Panel to Manage Items & Orders
 Responsive and user-friendly interface
